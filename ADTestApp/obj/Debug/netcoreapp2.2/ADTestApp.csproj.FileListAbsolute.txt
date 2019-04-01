@@ -1,0 +1,14 @@
+C:\Cardlytics\Sample\ADTestApp\ADTestApp\bin\Debug\netcoreapp2.2\ADTestApp.deps.json
+C:\Cardlytics\Sample\ADTestApp\ADTestApp\bin\Debug\netcoreapp2.2\ADTestApp.runtimeconfig.json
+C:\Cardlytics\Sample\ADTestApp\ADTestApp\bin\Debug\netcoreapp2.2\ADTestApp.runtimeconfig.dev.json
+C:\Cardlytics\Sample\ADTestApp\ADTestApp\bin\Debug\netcoreapp2.2\ADTestApp.dll
+C:\Cardlytics\Sample\ADTestApp\ADTestApp\bin\Debug\netcoreapp2.2\ADTestApp.pdb
+C:\Cardlytics\Sample\ADTestApp\ADTestApp\obj\Debug\netcoreapp2.2\ADTestApp.csprojAssemblyReference.cache
+C:\Cardlytics\Sample\ADTestApp\ADTestApp\obj\Debug\netcoreapp2.2\ADTestApp.csproj.CoreCompileInputs.cache
+C:\Cardlytics\Sample\ADTestApp\ADTestApp\obj\Debug\netcoreapp2.2\ADTestApp.RazorAssemblyInfo.cache
+C:\Cardlytics\Sample\ADTestApp\ADTestApp\obj\Debug\netcoreapp2.2\ADTestApp.RazorAssemblyInfo.cs
+C:\Cardlytics\Sample\ADTestApp\ADTestApp\obj\Debug\netcoreapp2.2\ADTestApp.AssemblyInfoInputs.cache
+C:\Cardlytics\Sample\ADTestApp\ADTestApp\obj\Debug\netcoreapp2.2\ADTestApp.AssemblyInfo.cs
+C:\Cardlytics\Sample\ADTestApp\ADTestApp\obj\Debug\netcoreapp2.2\ADTestApp.RazorTargetAssemblyInfo.cache
+C:\Cardlytics\Sample\ADTestApp\ADTestApp\obj\Debug\netcoreapp2.2\ADTestApp.dll
+C:\Cardlytics\Sample\ADTestApp\ADTestApp\obj\Debug\netcoreapp2.2\ADTestApp.pdb
